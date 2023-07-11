@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1074878859898",
+    "project_id": "greensol-app",
+    "storage_bucket": "greensol-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074878859898:android:b479376ae795c0b0ed49c3",
+        "android_client_info": {
+          "package_name": "com.bitwyse.greensolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074878859898-dksdajvtp0064uddg16ktinss8542h8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitwyse.greensolapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1074878859898-90tnt7qtvlta1djf0kfbrps8h0hadsu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCte6hdtAujtaHiT__NSKGkq-nHt5qD0oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074878859898-90tnt7qtvlta1djf0kfbrps8h0hadsu8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1074878859898-32fvjtbg02126q0pme3v7ghbs24chtua.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bitwyse.greensolapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
